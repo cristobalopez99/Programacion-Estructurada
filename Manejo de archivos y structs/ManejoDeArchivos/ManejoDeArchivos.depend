@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665779476 source:c:\users\personal\cursos\programacion estructurada\manejo de archivos y structs\manejodearchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+

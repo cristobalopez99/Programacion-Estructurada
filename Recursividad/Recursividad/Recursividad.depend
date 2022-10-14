@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665777877 source:c:\users\personal\cursos\programacion estructurada\recursividad\recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+

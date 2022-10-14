@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665581018 source:c:\users\personal\cursos\programacion estructurada\vars\main.c
+	<stdio.h>
+	<stdlib.h>
+

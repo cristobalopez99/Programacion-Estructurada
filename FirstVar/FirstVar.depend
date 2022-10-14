@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665581141 source:c:\users\personal\cursos\programacion estructurada\firstvar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

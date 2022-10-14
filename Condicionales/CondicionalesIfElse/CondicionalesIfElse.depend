@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665690663 source:c:\users\personal\cursos\programacion estructurada\condicionales\condicionalesifelse\main.c
+	<stdio.h>
+	<stdlib.h>
+
